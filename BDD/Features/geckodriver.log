@@ -1,0 +1,37 @@
+1618421933925	geckodriver	INFO	Listening on 127.0.0.1:1087
+1618421936956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nosor\\AppData\\Local\\Temp\\rust_mozprofilekJMCzt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618421944622	Marionette	INFO	Listening on port 1095
+1618421945107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618422349783	Marionette	INFO	Stopped listening on port 1095
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nosor\\AppData\\Local\\Temp\\rust_mozprofileQQisiv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618422116050	Marionette	INFO	Listening on port 1187
+1618422116642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618422351673	Marionette	INFO	Stopped listening on port 1187
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618422385844	geckodriver	INFO	Listening on 127.0.0.1:1282
+1618422388863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nosor\\AppData\\Local\\Temp\\rust_mozprofileKrI0AE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618422394168	Marionette	INFO	Listening on port 1290
+1618422394534	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618422564573	Marionette	INFO	Stopped listening on port 1290
+8422479831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nosor\\AppData\\Local\\Temp\\rust_mozprofileTmWCvv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618422485405	Marionette	INFO	Listening on port 1365
+1618422485903	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1618436677786	Marionette	INFO	Stopped listening on port 1365
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618422565816	Marionette	INFO	Listening on port 1432
+1618422566079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618422573332	Marionette	INFO	Stopped listening on port 1432
